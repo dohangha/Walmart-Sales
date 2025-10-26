@@ -2,11 +2,18 @@ We will study the sales data of one of the largest retailers in the world. Let's
 
 The data contains the following columns:
 
-Store: Store number
-Date: Sales week start date
-Weekly_Sales: Sales
-Holiday_Flag: Mark on the presence or absence of a holiday
-Temperature: Air temperature in the region
-Fuel_Price: Fuel cost in the region
-CPI: Consumer price index
-Unemployment: Unemployment rate
+<li> Store: Store number </li>
+<li>Date: Sales week start date</li>
+<li>Weekly_Sales: Sales</li>
+<li>Holiday_Flag: Mark on the presence or absence of a holiday</li>
+<li>Temperature: Air temperature in the region</li>
+<li>Fuel_Price: Fuel cost in the region</li>
+<li>CPI: Consumer price index</li>
+<li>Unemployment: Unemployment rate</li>
+
+
+
+
+
+
+
